@@ -73,5 +73,36 @@ body {
     display: flex;
     background-image: url('../images/Vectorrr.png');
     background-repeat: no-repeat;
+    margin: 140px;
 }
 
+.party-title {
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+    height: 176px;
+    padding-left: 125px;
+}
+
+.party-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 700px;
+    height: 60px;
+    padding-left: 125px;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 158px;
+  
+}
