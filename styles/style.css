@@ -1,0 +1,77 @@
+body {
+    font-family: Merriweather;
+}
+
+.banner-content {
+    text-align: center;
+    color: #FFF;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.header {
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+    margin-top: 50px;
+    margin-left: 140px;
+
+}
+
+.banner-greeting {
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 180px;
+
+}
+
+.banner-title {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    height: 190px;
+    padding-left: 344px;
+}
+
+.about {
+    text-align: center;
+}
+
+.section-title {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin: 120px 469px 0 468px;
+
+}
+
+.section-description {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 45px;
+}
+
+.info-title {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+
+}
+
+.info-img {
+    width: 802.9px;
+    height: 500px;
+}
+
+.about-party {
+    display: flex;
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+}
+
