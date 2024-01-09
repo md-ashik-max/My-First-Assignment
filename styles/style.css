@@ -199,6 +199,9 @@ body {
     height: 450px;
     border-radius: 16px;
 }
+.portfolio-img{
+    display: flex;
+}
 
 .portfolio-greeting {
     color: #F00;
