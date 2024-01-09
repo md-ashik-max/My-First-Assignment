@@ -183,7 +183,42 @@ body {
     width: 126px;
     height: 58px;
 }
-.about-new-year-party{
+
+.about-new-year-party {
     padding-left: 120px;
-    padding-top: 120px;  
+    padding-top: 120px;
+}
+
+.portfolio {
+    padding-top: 120px;
+    padding-left: 120px;
+}
+
+.product-img {
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;
+}
+
+.portfolio-greeting {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 120px;
+}
+
+.portfolio-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.portfolio-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
 }
