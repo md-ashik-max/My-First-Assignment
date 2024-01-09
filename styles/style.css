@@ -128,8 +128,10 @@ body {
     background-color: lavenderblush;
     padding-top: 100px;
     padding-bottom: 110px;
+    width: 1320px;
+    height: 482px;
     margin-left: 140px;
-    margin-right: 250px;
+
 
 }
 
@@ -169,6 +171,9 @@ body {
     width: 393px;
     height: 128px;
 }
+.about-offer-description{
+    width: 276px;
+}
 
 .offer-img {
     border-radius: 463px;
@@ -199,9 +204,8 @@ body {
     height: 450px;
     border-radius: 16px;
 }
-.portfolio-img{
 
-}
+.portfolio-img {}
 
 .portfolio-greeting {
     color: #F00;
@@ -224,4 +228,103 @@ body {
     font-weight: 400;
     line-height: 32px;
     width: 896px;
+}
+
+.subscribe {
+    text-align: center;
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background-color: azure;
+    margin-left: 120px;
+    margin-top: 120px;
+}
+
+.email-img {
+    padding-top: 80px;
+}
+
+.subscribe-title {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.subscribe-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* padding: 352px 212px 200px 212px; */
+}
+
+.email-primary {
+    width: 438px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    color: white;
+}
+
+.footer-container {
+    width: 1320px;
+    height: 609px;
+    background: #070211;
+    margin-left: 120px;
+    margin-top: 120px;
+}
+
+.column-description {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    width: 375px;
+    height: 80px;
+    padding-top: 120px;
+    padding-left: 140px;
+}
+
+.address {
+    color: #FFF;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 120px;
+    padding-right: 140px;
+
+}
+
+.footer-column-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-column-2 {
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 49px;
+}
+
+.footer-column-3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyright {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-left: 140px;
+}
+
+.unsubscribe {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 50px;
+    padding-right: 140px;
 }
